@@ -14,9 +14,11 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    graphicveiw.cpp
+    graphicveiw.cpp \
+    roompicture.cpp
 
 HEADERS  += mainwindow.h \
-    graphicveiw.h
+    graphicveiw.h \
+    roompicture.h
 
 FORMS    += mainwindow.ui
